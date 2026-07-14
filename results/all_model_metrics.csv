@@ -1,0 +1,3 @@
+model,gqa_exact_match,mmbench_accuracy,bertscore_precision,bertscore_recall,bertscore_f1,gqa_exact_change_vs_b0,gqa_semantic_change_vs_b0
+B0,43.0,74.0,87.95,87.09,87.47,0.0,0.0
+F1-fast,43.0,74.0,85.37,84.72,85.0,0.0,-2.47
