@@ -1,0 +1,3 @@
+benchmark,metric,correct,examples
+GQA-ru,43.0,43,100
+MMBench-ru,74.0,74,100
