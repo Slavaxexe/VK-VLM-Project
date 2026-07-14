@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.venv/
+.env
+
+# Downloaded data, model weights and run artifacts
+data/
+models/
+checkpoints/
+wandb/
+mlruns/
+
+# DVC local cache
+.dvc/cache/
