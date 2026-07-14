@@ -1,0 +1,3 @@
+model,bertscore_precision,bertscore_recall,bertscore_f1
+B0,87.95,87.09,87.47
+F1-fast,85.37,84.72,85.0
