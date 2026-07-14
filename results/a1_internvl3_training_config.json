@@ -1,0 +1,8 @@
+{
+  "base_model": "OpenGVLab/InternVL3-2B-hf",
+  "examples": 2000,
+  "lora_rank": 8,
+  "epochs": 1,
+  "learning_rate": 0.0002,
+  "seed": 42
+}
