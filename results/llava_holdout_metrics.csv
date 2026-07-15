@@ -1,0 +1,6 @@
+model,bertscore_f1,rouge_l,prediction_words
+F3-10k,92.31,32.53,33.46
+F2,92.07,31.35,34.28
+F1-fast,91.96,30.1,33.53
+A1-InternVL3,91.92,31.25,35.08
+B0,91.15,25.83,32.2

@@ -1,0 +1,11 @@
+model,type,bertscore_f1,rouge_l,prediction_words
+A1-InternVL3,complex_reasoning,89.63,20.55,58.96
+A1-InternVL3,conversation,94.2,41.95,11.2
+B0,complex_reasoning,88.98,16.86,52.0
+B0,conversation,93.33,34.8,12.4
+F1-fast,complex_reasoning,89.83,20.13,58.88
+F1-fast,conversation,94.09,40.07,8.18
+F2,complex_reasoning,90.01,20.66,59.66
+F2,conversation,94.14,42.04,8.9
+F3-10k,complex_reasoning,90.24,21.32,58.78
+F3-10k,conversation,94.38,43.74,8.14
