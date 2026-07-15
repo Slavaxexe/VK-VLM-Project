@@ -1,0 +1,10 @@
+{
+  "base_model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "examples": 10000,
+  "lora_rank": 16,
+  "epochs": 1,
+  "learning_rate": 0.0001,
+  "seed": 42,
+  "total_steps": 1250,
+  "warmup_steps": 38
+}
