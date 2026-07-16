@@ -2,8 +2,11 @@
 
 Учебный исследовательский проект по дообучению визуально-языковых моделей на открытых данных VK. Модель получает изображение и вопрос на русском языке, после чего формирует короткий ответ или развёрнутое объяснение с опорой на содержание изображения.
 
-📄 **[Подробный отчёт проекта в формате Word](docs/solution_report.docx)**  
+📄 **[Подробный отчёт проекта в формате Word](docs/solution_report.docx)**
+
 📋 **[Model card итоговой модели F3-10k](docs/model_card_f3.md)**
+
+🗂️ **[Модели и DVC-артефакты в DagsHub](https://dagshub.com/Slavaxexe/VK-VLM-Project)**
 
 ## Описание проекта
 
@@ -119,6 +122,7 @@ BERTScore и ROUGE-L не являются «процентом правильн
 - [Метрики LLaVA holdout](results/llava_holdout_metrics.csv)
 - [Bootstrap-интервалы](results/llava_holdout_bootstrap.csv)
 - [Сводка динамики обучения](results/training_run_summary.csv)
+- [DagsHub-репозиторий с DVC-моделями](https://dagshub.com/Slavaxexe/VK-VLM-Project)
 
 ## Структура репозитория
 

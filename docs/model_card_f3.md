@@ -135,7 +135,7 @@ model = PeftModel.from_pretrained(model, adapter_path).eval()
 ## Материалы
 
 - Репозиторий: [Slavaxexe/VK-VLM-Project](https://github.com/Slavaxexe/VK-VLM-Project)
+- Модели в DagsHub/DVC: [Slavaxexe/VK-VLM-Project](https://dagshub.com/Slavaxexe/VK-VLM-Project)
 - Данные: [DeepVK Vision-Language Modeling](https://huggingface.co/collections/deepvk/vision-language-modeling)
 - Подробный отчёт: `docs/solution_report.docx`
 - Метрики: `results/all_model_metrics.csv`, `results/llava_holdout_metrics.csv`
-
