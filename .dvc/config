@@ -1,0 +1,6 @@
+[core]
+    remote = dagshub
+['remote "dagshub"']
+    url = https://dagshub.com/Slavaxexe/VK-VLM-Project.dvc
+    auth = basic
+    user = Slavaxexe

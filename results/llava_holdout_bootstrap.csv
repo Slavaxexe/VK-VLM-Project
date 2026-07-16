@@ -1,0 +1,9 @@
+model,metric,examples,change_pp,ci_low_pp,ci_high_pp,positive_examples_pct
+A1-InternVL3,bertscore_f1,100,0.76,0.4,1.14,67.0
+F1-fast,bertscore_f1,100,0.81,0.5,1.11,68.0
+F2,bertscore_f1,100,0.92,0.55,1.28,76.0
+F3-10k,bertscore_f1,100,1.16,0.86,1.45,76.0
+A1-InternVL3,rouge_l,100,5.42,2.5,8.44,64.0
+F1-fast,rouge_l,100,4.27,1.42,7.35,59.0
+F2,rouge_l,100,5.52,2.43,8.6,71.0
+F3-10k,rouge_l,100,6.7,3.63,10.0,65.0
